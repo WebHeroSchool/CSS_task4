@@ -1,7 +1,9 @@
-body {
-font-family: 'Didact Gothic', sans-serif;
+/* applies fonts to the whole doc */
+body {  
+font-family: 'Didact Gothic', sans-serif; 
 }
 
+/* applies fonts to the title only */
 .header__title {
 font-family: 'Pacifico', cursive;
 }
